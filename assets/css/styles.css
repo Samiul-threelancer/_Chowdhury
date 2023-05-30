@@ -319,25 +319,29 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__python {
   width: 85%;
 }
 
-.skills__css {
-  width: 100%;
+.skills__postgres {
+  width: 95%;
 }
 
-.skills__js {
-  width: 85%;
+.skills__powerBI {
+  width: 80%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__tableu {
+  width: 80%;
+}
+.skills__excel{
+  width: 70%;
 }
 
 .skills__img {
   border-radius: .5rem;
 }
+
 
 /* ===== WORK =====*/
 .work__container {
