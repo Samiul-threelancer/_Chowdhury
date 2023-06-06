@@ -306,6 +306,7 @@ img {
 
 .skills__names {
   display: flex;
+  margin-left: 0px;
   align-items: center;
 }
 
@@ -324,7 +325,7 @@ img {
 }
 
 .skills__postgres {
-  width: 95%;
+  width: 85%;
 }
 
 .skills__powerBI {
